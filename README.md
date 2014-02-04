@@ -9,4 +9,4 @@ Testing ODE models in SBPOP Matlab Toolbox
 
 ## Testing
 
-    SBedit("model name")
+    > SBedit("model name")
