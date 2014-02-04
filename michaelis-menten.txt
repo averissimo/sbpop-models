@@ -1,0 +1,28 @@
+********** MODEL NAME
+Menten model
+
+********** MODEL NOTES
+
+
+********** MODEL STATES
+d/dt(S) = R                      
+S(0) = 8
+
+********** MODEL PARAMETERS
+Vmax = 2.4                       
+Km = 3.3
+
+********** MODEL VARIABLES
+
+
+********** MODEL REACTIONS
+R = - (Vmax*S)/(Km+S)
+
+********** MODEL FUNCTIONS
+
+
+********** MODEL EVENTS
+
+
+********** MODEL MATLAB FUNCTIONS
+
