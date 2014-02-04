@@ -1,4 +1,4 @@
-sbtoolbox2-models
+sbpop models
 =================
 
 Testing ODE models in SBPOP Matlab Toolbox
